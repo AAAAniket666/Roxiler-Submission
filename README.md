@@ -539,20 +539,3 @@ CMD ["npm", "start"]
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For support and questions:
-- **Email**: support@roxlier-systems.com
-- **GitHub Issues**: [Create an issue](https://github.com/username/store-rating-platform/issues)
-- **Documentation**: [Project Wiki](https://github.com/username/store-rating-platform/wiki)
-
-## 🙏 Acknowledgments
-
-- **Roxiler Systems** - For providing the opportunity and requirements
-- **Open Source Community** - For the amazing tools and libraries
-- **Contributors** - For making this project better
-
----
-
-**Built with ❤️ for Roxiler Systems Campus Hiring**
